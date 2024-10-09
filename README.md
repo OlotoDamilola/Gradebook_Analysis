@@ -13,7 +13,7 @@ d) Total_CA2: The total score of continous assessment in second term
 
 e) Total_Score3: The sum of score in continous assessment and exam in third term
 
-f) Weighted Average: The average of total scores in first, second and third term.
+f) Weighted Average: The average of total scores in first, second and third term. 
 
 The aim of the research is to derive significant insights that will guide teaching improvement on the basics of technical drawing.
 
