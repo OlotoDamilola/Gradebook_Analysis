@@ -29,6 +29,10 @@ Students in science 1 dominated the top 7 students. With an average of 87, scien
 
 The highest rank student, Quadri Ibrahim Temitope, generally scores 91 in the first term of the session, decreasing by 7% in the second term and then scoring 87 in the third term. This pattern of higher scores in the first term was seen while analysing the results of the top students. 
 
+![image](https://github.com/user-attachments/assets/da45f388-3d89-45ad-b470-6d9c7801c609)
+
+In both classes, students often score between 50 and 59 which is considered Good. This demonstrates that most of the students in the session achieved higher than average score. Due to missing at least one term of the session, the students who were placed in the Poor category has a score of less than 40. For example, Harun Nasirullahi Goodluck from science 1 missed the first term, scored 49 in the second term and 66 in the third term and then with weighted average of 38.
+
 
 
 
