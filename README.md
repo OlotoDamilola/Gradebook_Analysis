@@ -35,27 +35,37 @@ In both classes, students often score between 50 and 59 which is considered Good
 
 ![image](https://github.com/user-attachments/assets/03514c60-2afb-4c33-b2b2-4e3b1d05ea6c)
 
-This displays the weighted average distribution between the two classes. In Science 1, 30 students scored between 50 and 59, 22 students scored between 40 and 49, 20 students between 60 and 69 and 5 students scored the most, placing them in the Excellent category. The Interquartile range provided more information about the scores distribution and variability. 
+This displays the weighted average distribution between the two classes. In Science 1, 30 students scored between 50 and 59, 22 students scored between 40 and 49, 20 students between 60 and 69 and 5 students scored the most, placing them in the Excellent category. The Interquartile Range (IQR) provided more information about the scores distribution and variability. 
 
 Science 1:
+
 IQR = Q3 - Q1
+
 IQR = 63 - 48 = 15
+
 To get the high Outliers;
+
 Q3 + 1.5 x 15
+
 63 + 1.5 x 15 = 86
+
 To get the low outliers;
+
 48 - 1.5 x 15 = 26
 
 This shows that a student score in Science 1 will most likely fall between 26 - 86
 
 Science 2:
+
 60 + 1.5 x 15 = 70
+
 53 - 1.5 x 15 = 43
 
 This shows that a student score in science 2 will most likely fall between 43 - 70
 
 # Conclusion
 a) 100% pass rate excluding the 21 students who at least missed a term
+
 b) With a lower population, Science 2 has more students score more than 49, weighted average.
 
 # Recommendation
