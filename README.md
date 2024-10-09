@@ -1,7 +1,7 @@
 # Gradebook_Analysis
 # Analyzing data in Excel and visualizing with Power BI
 # Introduction
-This is a personal related project. I conducted an analysis on a dataset that I generated to monitor students progress in technical drawing from the first to the third term of the session. The dataset contained 153 rows and 26 columns. The following variables are included in the data;
+This is a personal related project. I conducted an analysis on a dataset that I generated to monitor S.S 1 students progress in technical drawing from the first to the third term of the session in Ijebu Ode Grammar School (JOGS). The dataset contained 153 rows and 26 columns. The following variables are included in the data;
 
 a) Student Name: The name of the student
 
