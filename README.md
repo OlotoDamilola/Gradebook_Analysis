@@ -25,5 +25,10 @@ I entered the information into my Excel software to gather the data. After makin
 
 Students in science 1 dominated the top 7 students. With an average of 87, science 1 student, Quadri Ibrahim Temitope received the highest mark. Ogunleye Adewure Aduragbemi, the lone student from science 2 in the top 7, comes in second place with a score of 78. Other students include, Hassan Abdul-Afeez Adeiza (75), Oniuku Odafe Akorede (72), Olunuga Toluwalase Babafeni (70), Ogunnusi Olusola Emmanuel (70) and Odulaja Yusuf Olamide (69).
 
+![image](https://github.com/user-attachments/assets/c786da41-9b84-4110-a998-3aef8a30589e)
+
+The highest rank student, Quadri Ibrahim Temitope, generally scores 91 in the first term of the session, decreasing by 7% in the second term and then scoring 87 in the third term. This pattern of higher scores in the first term was seen while analysing the results of the top students. 
+
+
 
 
