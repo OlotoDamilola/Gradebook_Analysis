@@ -13,6 +13,13 @@ d) Total_CA2: The total score of continous assessment in second term
 
 e) Total_Score3: The sum of score in continous assessment and exam in third term
 
-f) Weighted average: The average of total scores in first, second and third term.
+f) Weighted Average: The average of total scores in first, second and third term.
 
 The aim of the research is to derive significant insights that will guide teaching improvement on the basics of technical drawing.
+
+# Data Collection and Data Wrangling
+I entered the information into my Excel software to gather the data. After making sure there were no miissing values and that the columns were in the correct data type, I transformed the data into a table format. To compute the Weighted Average, Average CA and Average Exam score, columns were added. After importing the data into Power Query, I checked for the validity of my data using column distribution, quality and profiling. The Switch DAX function was used to group the weighted average into score grade of five categories. 
+
+# Data Analysis and Data Visualization
+
+
