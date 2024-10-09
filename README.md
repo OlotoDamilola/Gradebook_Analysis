@@ -23,5 +23,7 @@ I entered the information into my Excel software to gather the data. After makin
 # Data Analysis and Data Visualization
 ![image](https://github.com/user-attachments/assets/a4857fb8-7e7b-4096-af43-253b3b9d93e7)
 
+Students in science 1 dominated the top 7 students. With an average of 87, science 1 student, Quadri Ibrahim Temitope received the highest mark. Ogunleye Adewure Aduragbemi, the lone student from science 2 in the top 7, comes in second place with a score of 78. Other students include, Hassan Abdul-Afeez Adeiza (75), Oniuku Odafe Akorede (72), Olunuga Toluwalase Babafeni (70), Ogunnusi Olusola Emmanuel (70) and Odulaja Yusuf Olamide (69).
+
 
 
